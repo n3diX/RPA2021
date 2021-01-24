@@ -1,0 +1,1 @@
+Tukaj bodo vsa predavanja in vaje na ŠČ NG pri predmetu RPA(Razvoj programskih aplikacij)
