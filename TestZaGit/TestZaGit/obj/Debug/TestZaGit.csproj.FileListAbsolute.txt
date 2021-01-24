@@ -1,0 +1,7 @@
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\bin\Debug\TestZaGit.exe.config
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\bin\Debug\TestZaGit.exe
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\bin\Debug\TestZaGit.pdb
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\obj\Debug\TestZaGit.csprojAssemblyReference.cache
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\obj\Debug\TestZaGit.csproj.CoreCompileInputs.cache
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\obj\Debug\TestZaGit.exe
+C:\Users\NEDIM\source\RPA2021\TestZaGit\TestZaGit\obj\Debug\TestZaGit.pdb
